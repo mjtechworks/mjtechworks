@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity best practise**
 
-- 👨‍💻 All of my projects are available at [https://comingsoon...](https://comingsoon...)
+- 👨‍💻 You can see my portfolio at [https://ef5cda4a.mike-portfolio.pages.dev](https://ef5cda4a.mike-portfolio.pages.dev/)
 
 - 💬 Ask me about **anything about full-stack development**
 
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjtechworks&show_icons=true&locale=en" alt="mjtechworks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjtechworks&" alt="mjtechworks" /></p>
-
